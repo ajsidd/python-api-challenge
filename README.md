@@ -1,16 +1,5 @@
 # python-api-challenge
 
-To create a GitHub README file for your Python API Challenge project, follow these steps:
-
-1. **Navigate to your GitHub repository:**
-   Open your GitHub account and locate the repository named `python-api-challenge` that you created for this project.
-
-2. **Create a new README file:**
-   Inside the repository, click on the "Add file" dropdown and select "Create new file". Name the file `README.md`.
-
-3. **Write the README content:**
-   In the README file, provide information about the project, its purpose, and how to run the scripts. Here's a template you can use:
-
 ```markdown
 # Python API Challenge
 
@@ -37,16 +26,9 @@ This project consists of two parts: WeatherPy and VacationPy.
 The requirements for "Part 1: WeatherPy" and "Part 2: VacationPy" are listed in the project instructions.
 
 ## Contributors
-- [Your Name]
+- Amir Siddiqui
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 ```
 
-4. **Commit changes:**
-   Once you have written the content, scroll down to the bottom of the page and click on the "Commit new file" button to save the README file to your repository.
-
-5. **Check the README on GitHub:**
-   After committing the changes, navigate back to your repository's main page and click on the README file to ensure it displays correctly.
-
-This README file provides a basic structure for your project documentation. Feel free to customize it with additional information, instructions, or details about your analysis and findings.
